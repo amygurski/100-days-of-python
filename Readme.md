@@ -6,3 +6,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 1
   - Topic: Printing, input and working with variables
   - Project: Band Name Generator
+- Day 2
+  - Topic: Understanding data types and manipulating strings
+  - Project: Split The Bill Calculator
