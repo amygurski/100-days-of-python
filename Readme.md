@@ -12,3 +12,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 3
   - Topic: Control Flow and Logical Operators
   - Project: Treasure Island
+- Day 4
+  - Topic: Randomisation and Python Lists
+  - Project: Rock-Paper-Scissors
