@@ -9,3 +9,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 2
   - Topic: Understanding data types and manipulating strings
   - Project: Split The Bill Calculator
+- Day 3
+  - Topic: Control Flow and Logical Operators
+  - Project: Treasure Island
