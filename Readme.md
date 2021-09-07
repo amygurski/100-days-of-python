@@ -24,3 +24,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 7:
   - Topic: Putting the basics together
   - Project: Hangman Game
+- Day 8:
+  - Topic: Function Parameters
+  - Project: Caesar Cipher
