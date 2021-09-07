@@ -18,3 +18,9 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 5
   - Topic: Loops
   - Project: Password Generator
+- Day 6
+  - Topic: Functions
+  - Project: Maze challenge at [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
+- Day 7:
+  - Topic: Putting the basics together
+  - Project: Hangman Game
