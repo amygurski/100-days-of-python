@@ -15,3 +15,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 4
   - Topic: Randomisation and Python Lists
   - Project: Rock-Paper-Scissors
+- Day 5
+  - Topic: Loops
+  - Project: Password Generator
