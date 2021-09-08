@@ -27,3 +27,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 8:
   - Topic: Function Parameters
   - Project: Caesar Cipher
+- Day 9:
+  - Topic: Dictionaries
+  - Project: Silent Auction
