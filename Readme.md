@@ -30,3 +30,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 9:
   - Topic: Dictionaries
   - Project: Silent Auction
+- Day 10:
+  - Topic: Functions with outputs
+  - Project: Calculator
