@@ -33,3 +33,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 10:
   - Topic: Functions with outputs
   - Project: Calculator
+- Day 11:
+  - Capstone Project: Blackjack
+
