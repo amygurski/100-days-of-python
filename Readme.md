@@ -35,4 +35,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Project: Calculator
 - Day 11:
   - Capstone Project: Blackjack
-
+- Day 12:
+  - Topic: Scope
+  - Project: Number Guessing Game
