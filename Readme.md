@@ -42,6 +42,11 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Topic: Debugging
 - Day 14:
   - Project: Higher Lower Game
+## Intermediate 
 - Day 15:
   - Project: Coffee Machine
+- Day 16:
+  - Topic: OOP
+  - Project: Coffee Machine in OOP
+
   
