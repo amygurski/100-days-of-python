@@ -48,5 +48,8 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 16:
   - Topic: OOP
   - Project: Coffee Machine in OOP
+- Day 17:
+  - Topic: The benefits of OOP
+  - Project: Quiz
 
   
