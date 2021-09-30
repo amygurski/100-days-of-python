@@ -51,5 +51,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 17:
   - Topic: The benefits of OOP
   - Project: Quiz
-
-  
+- Day 18: 
+  - Topic: Turtle graphics and tuples
+  - Project: Hirst painting
