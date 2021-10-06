@@ -54,3 +54,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 18: 
   - Topic: Turtle graphics and tuples
   - Project: Hirst painting
+- Day 19:
+  - Topic: Instances, State, and Higher Order Functions
+  - Project: Turtle Race
