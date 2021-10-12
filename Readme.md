@@ -57,3 +57,5 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 19:
   - Topic: Instances, State, and Higher Order Functions
   - Project: Turtle Race
+- Day 20 & 21:
+  - Project: Snake Game
