@@ -59,3 +59,5 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Project: Turtle Race
 - Day 20 & 21:
   - Project: Snake Game
+- Day 22:
+  - Project: Pong
