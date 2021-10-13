@@ -64,3 +64,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Project: Pong
 - Day 23:
   - Capstone Project: Turtle Crossing
+- Day 24:
+  - Topic: Files, Directories, and Paths
+  - Project: Mail merge
