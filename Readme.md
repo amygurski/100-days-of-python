@@ -67,3 +67,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 24:
   - Topic: Files, Directories, and Paths
   - Project: Mail merge
+- Day 25: 
+  - Topic: Working with CSV and the Pandas library
+  - Project: U.S. States Game
