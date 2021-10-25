@@ -45,9 +45,6 @@ while answer_state != None:
     if num_correct == NUM_OF_STATES or answer_state.lower() == "exit":
         break
 
-missing_states = []
-for state in STATES.values:
-    if state not in guessed_states:
-        missing_states.append(state)
-    new_csv = pandas.DataFrame(missing_states)
-    new_csv.to_csv("states_to_learn.csv")
+missing_states = [state for state in STATES.values if state not in guessed_states]
+new_csv = pandas.DataFrame(missing_states)
+new_csv.to_csv("states_to_learn.csv")
