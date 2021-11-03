@@ -77,3 +77,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Topic: Graphical User Interfaces with Tkinter and Function Arguments
   - *args and **kwargs
   - Project: Mile to Kilometer Converter Project
+- Day 28
+  - Topic: Tkinter and dynamic typing
+  - Project: Pomodoro application
