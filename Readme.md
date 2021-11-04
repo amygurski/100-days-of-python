@@ -80,3 +80,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 28
   - Topic: Tkinter and dynamic typing
   - Project: Pomodoro application
+- Day 29
+  - Project: Building a password manager with Tkinter
+
