@@ -82,4 +82,5 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Project: Pomodoro application
 - Day 29
   - Project: Building a password manager with Tkinter
-
+- Day 30
+  - Topic: Errors, Exceptions and JSON Data
