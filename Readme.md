@@ -84,3 +84,5 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Project: Building a password manager with Tkinter
 - Day 30
   - Topic: Errors, Exceptions and JSON Data
+- Day 31
+  - Capstone Project: Flash Cards
