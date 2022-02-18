@@ -86,3 +86,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Topic: Errors, Exceptions and JSON Data
 - Day 31
   - Capstone Project: Flash Cards
+- Day 32
+  - Topic: Send email (smtplib) and manage dates (datetime)
+  - Project: Automated Birthday Wisher Emails (skipped)
