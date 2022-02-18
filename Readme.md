@@ -92,3 +92,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 33
   - Topic: API Endpoints & API Parameters
   - Project: ISS Overhead Notifier
+- Day 34
+  - Topic: Intermediate API Practice
+  - Project: Creating a GUI Quiz App
