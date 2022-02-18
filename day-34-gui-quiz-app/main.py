@@ -16,5 +16,3 @@ for result in response.json()["results"]:
 quiz = QuizBrain(question_bank)
 quiz_ui = QuizIterface(quiz)
 
-print("You've completed the quiz")
-print(f"Your final score was: {quiz.score}/{quiz.question_number}")
