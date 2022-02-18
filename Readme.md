@@ -89,3 +89,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 32
   - Topic: Send email (smtplib) and manage dates (datetime)
   - Project: Automated Birthday Wisher Emails (skipped)
+- Day 33
+  - Topic: API Endpoints & API Parameters
+  - Project: ISS Overhead Notifier
