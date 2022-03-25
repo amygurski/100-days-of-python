@@ -95,3 +95,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 34
   - Topic: Intermediate API Practice
   - Project: Creating a GUI Quiz App
+- Day 35:
+  - Topic: API Authentication and environment variables
+  - Project: Rain Alert Texts using Twilio API
