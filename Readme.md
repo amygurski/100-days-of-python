@@ -100,3 +100,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
   - Project: Rain Alert Texts using Twilio API
 - Day 36:
   - Project: Stock Trading News Alert Project
+- Day 41:
+  - Topic: Intro to HTML
+  - Project: Personal website (well, not really - I have one so just did the most basic refresher)
