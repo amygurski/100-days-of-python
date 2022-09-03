@@ -98,3 +98,5 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 35:
   - Topic: API Authentication and environment variables
   - Project: Rain Alert Texts using Twilio API
+- Day 36:
+  - Project: Stock Trading News Alert Project
