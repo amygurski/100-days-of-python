@@ -103,3 +103,6 @@ Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.u
 - Day 41:
   - Topic: Intro to HTML
   - Project: Personal website (well, not really - I have one so just did the most basic refresher)
+- Day 42:
+  - Topic: More HTML
+  - Project: Add form and table to webpage
