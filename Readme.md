@@ -2,107 +2,58 @@
 
 Projects for [100 Days of Code - The Complete Python Pro Bootcamp](https://www.udemy.com/course/100-days-of-code/).
 
-## Beginner 
-- Day 1
-  - Topic: Printing, input and working with variables
-  - Project: Band Name Generator
-- Day 2
-  - Topic: Understanding data types and manipulating strings
-  - Project: Split The Bill Calculator
-- Day 3
-  - Topic: Control Flow and Logical Operators
-  - Project: Treasure Island
-- Day 4
-  - Topic: Randomisation and Python Lists
-  - Project: Rock-Paper-Scissors
-- Day 5
-  - Topic: Loops
-  - Project: Password Generator
-- Day 6
-  - Topic: Functions
-  - Project: Maze challenge at [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json)
-- Day 7:
-  - Topic: Putting the basics together
-  - Project: Hangman Game
-- Day 8:
-  - Topic: Function Parameters
-  - Project: Caesar Cipher
-- Day 9:
-  - Topic: Dictionaries
-  - Project: Silent Auction
-- Day 10:
-  - Topic: Functions with outputs
-  - Project: Calculator
-- Day 11:
-  - Capstone Project: Blackjack
-- Day 12:
-  - Topic: Scope
-  - Project: Number Guessing Game
-- Day 13:
-  - Topic: Debugging
-- Day 14:
-  - Project: Higher Lower Game
-## Intermediate 
-- Day 15:
-  - Project: Coffee Machine
-- Day 16:
-  - Topic: OOP
-  - Project: Coffee Machine in OOP
-- Day 17:
-  - Topic: The benefits of OOP
-  - Project: Quiz
-- Day 18: 
-  - Topic: Turtle graphics and tuples
-  - Project: Hirst painting
-- Day 19:
-  - Topic: Instances, State, and Higher Order Functions
-  - Project: Turtle Race
-- Day 20 & 21:
-  - Inheritance & List Slicing
-  - Project: Snake Game
-- Day 22:
-  - Project: Pong
-- Day 23:
-  - Capstone Project: Turtle Crossing
-- Day 24:
-  - Topic: Files, Directories, and Paths
-  - Project: Mail merge
-- Day 25: 
-  - Topic: Working with CSV and the Pandas library
-  - Project: U.S. States Game
-- Day 26:
-  - Topic: List Comprehension
-  - Project: NATO Alphabet Project
-- Day 27:
-  - Topic: Graphical User Interfaces with Tkinter and Function Arguments
-  - *args and **kwargs
-  - Project: Mile to Kilometer Converter Project
-- Day 28
-  - Topic: Tkinter and dynamic typing
-  - Project: Pomodoro application
-- Day 29
-  - Project: Building a password manager with Tkinter
-- Day 30
-  - Topic: Errors, Exceptions and JSON Data
-- Day 31
-  - Capstone Project: Flash Cards
-- Day 32
-  - Topic: Send email (smtplib) and manage dates (datetime)
-  - Project: Automated Birthday Wisher Emails (skipped)
-- Day 33
-  - Topic: API Endpoints & API Parameters
-  - Project: ISS Overhead Notifier
-- Day 34
-  - Topic: Intermediate API Practice
-  - Project: Creating a GUI Quiz App
-- Day 35:
-  - Topic: API Authentication and environment variables
-  - Project: Rain Alert Texts using Twilio API
-- Day 36:
-  - Project: Stock Trading News Alert Project
-- Day 41:
-  - Topic: Intro to HTML
-  - Project: Personal website (well, not really - I have one so just did the most basic refresher)
-- Day 42:
-  - Topic: More HTML
-  - Project: Add form and table to webpage
+The apps at my work are largely ruby on rails, but I moved into a team that owns a few key python apps, so doing this to strengthen my foundation and because it's fun.
+
+## Beginner
+
+| Day  | Topic and Project                                                              |
+| :----| :------------------------------------------------------------------------------|
+| 1    | Printing, input and working with variables<br>Band Name Generator              |
+| 2    | Understanding data types and manipulating strings<br>Split The Bill Calculator |
+| 3    | Control Flow and Logical Operators<br>Treasure Island                          |
+| 4    | Randomisation and Python Lists<br>Rock-Paper-Scissors                          |
+| 5    | Loops<br>Password Generator                                                    |
+| 6    | Functions<br>Maze challenge at [Reeborg's World](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Maze&url=worlds%2Ftutorial_en%2Fmaze1.json) |
+| 7    | Putting the basics together<br>Hangman Game                                    |
+| 8    | Function Parameters<br>Caesar Cipher                                           |
+| 9    | Dictionaries<br>Silent Auction                                                 |
+| 10   | Functions with outputs<br>Calculator                                           |
+| 11   | Capstone Project: Blackjack                                                    |
+| 12   | Scope<br>Number Guessing Game                                                  |
+| 13   | Debugging                                                                      |
+| 14   | Higher Lower Game                                                              |
+
+## Intermediate
+| Day   | Topic and Project                                                              |
+| :-----| :------------------------------------------------------------------------------|
+| 15    | Coffee Machine                                                                 |
+| 16    | OOP<br>Coffee Machine in OOP                                                   |
+| 17    | Benefits of OOP<br>Quiz                                                        |
+| 18    | Turtle graphics and tuples<br>Hirst Painting                                   |
+| 19    | Instances, State and Higher Order Functions<br>Turtle Race                     |
+| 20&21 | Inheritance & List Slicing<br>Snake Game                                       |
+| 22   | Pong                                                                            |
+| 23   | Capstone Project: Turtle Crossing                                               |
+| 24   | Files, Dictionaries, and Paths<br>Mail Merge                                    |
+| 25   | Working with CSV and the Pandas library<br>U.S. States Game                     |
+| 26   | List Comprehension<br>NATO Alphabet Project                                     |
+| 27   | Graphical User Interfaces with Tkinter and Function Arguments<br>*args and **kwargs<br>Mile to Kilometer Converter Project |
+| 28   | Tkinter and dynamic typing<br>Pomodoro applicati                                |
+| 29   | Building a password manager with Tkinter                                        |
+| 30   | Topic: Errors, Exceptions and JSON Data                                         |
+| 31   | Capstone Project: Flash Cards                                                   |
+
+## Intermediate+
+| Day   | Topic and Project                                                                     |
+| :-----| :-------------------------------------------------------------------------------------|
+| 32    |  Send email (smtplib) and manage dates (datetime)                                     |
+| 33    | API Endpoints & API Parameters<br>ISS Overhead Notifier                               |
+| 34    | Intermediate API Practice<br>Creating a GUI Quiz App                                  |
+| 35    | API Authentication and environment variables<br>Rain Alert Texts using Twilio API     |
+| 36    | Stock Trading News Alert Project                                                      |
+
+## Web Foundation
+| Day   | Topic and Project                                                              |
+| :-----| :------------------------------------------------------------------------------|
+| 41    | Intro to HTML                                                                  |
+| 42    | More HTML (forms, tables)                                                      |
