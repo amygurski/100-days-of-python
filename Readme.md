@@ -51,6 +51,7 @@ The apps at my work are largely ruby on rails, but I moved into a team that owns
 | 34    | Intermediate API Practice<br>Creating a GUI Quiz App                                  |
 | 35    | API Authentication and environment variables<br>Rain Alert Texts using Twilio API     |
 | 36    | Stock Trading News Alert Project                                                      |
+| 37    | Advanced Authentication and POST/PUT/DELETE Requests<br>Habit Tracker                 |
 
 ## Web Foundation
 | Day   | Topic and Project                                                              |
